@@ -1,0 +1,36 @@
+{
+  "@@locale": "en",
+  "appName": "QuickCart",
+  "welcomeMessage": "Welcome to QuickCart",
+
+  "splashSubtitle": "Your One-Stop Shopping Solution",
+  "copyright": "© 2025. QuickCart",
+  "allRightsReserved": "All Rights Reserved",
+
+
+  "onboarding_title_1": "Welcome to QuickCart",
+  "onboarding_desc_1": "Discover thousands of products at your fingertips. Shop from anywhere, anytime.",
+  "onboarding_title_2": "Fast Delivery",
+  "onboarding_desc_2": "Get your orders delivered quickly to your doorstep with our express shipping.",
+  "onboarding_title_3": "Secure Payments",
+  "onboarding_desc_3": "Shop with confidence using our secure payment methods and transaction protection.",
+
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "Get Started",
+  "changeLanguage": "Change Language",
+  "languageEn": "English",
+  "languageNe": "नेपाली",
+
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "emailHint": "Email",
+  "passwordHint": "Password",
+  "forgotPassword": "Forgot Password?",
+  "orContinueWith": "Or continue with",
+  "dontHaveAccount": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "resetPassword": "Reset Password",
+  "errorInvalidEmail": "Please enter a valid email",
+  "errorPasswordTooShort": "Password must be at least 6 characters"
+}

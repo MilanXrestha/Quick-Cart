@@ -1,0 +1,38 @@
+{
+  "@@locale": "ne",
+
+  "appName": "क्विककार्ट",
+  "welcomeMessage": "क्विककार्ट एपमा स्वागत छ",
+
+  "splashSubtitle": "सबै सामान एकै ठाउँमा",
+  "copyright": "© २०२५. क्विककार्ट",
+  "allRightsReserved": "सर्वाधिकार सुरक्षित",
+
+  "onboarding_title_1": "क्विककार्ट एपमा स्वागत छ",
+  "onboarding_desc_1": "हजारौं उत्पादनहरू सजिलै आफ्नो औंलामा पाउनुहोस्। जहाँबाट पनि सजिलैसँग किनमेल गर्नुहोस्।",
+
+  "onboarding_title_2": "द्रुत डेलिभरी",
+  "onboarding_desc_2": "हाम्रो एक्सप्रेस शिपिङ्गमार्फत तपाईंको अर्डर छिटो तपाईंको ढोकासम्म पुग्छ।",
+
+  "onboarding_title_3": "सुरक्षित भुक्तानी",
+  "onboarding_desc_3": "सुरक्षित भुक्तानी विकल्प र लेनदेन सुरक्षा प्रयोग गरेर निश्चिन्त भएर किनमेल गर्नुहोस्।",
+
+  "skip": "छोड्नुहोस्",
+  "next": "अर्को",
+  "getStarted": "सुरु गर्नुहोस्",
+  "changeLanguage": "भाषा परिवर्तन गर्नुहोस्",
+  "languageEn": "English",
+  "languageNe": "नेपाली",
+
+  "signIn": "साइन इन",
+  "signUp": "साइन अप",
+  "emailHint": "इमेल",
+  "passwordHint": "पासवर्ड",
+  "forgotPassword": "पासवर्ड बिर्सनुभयो?",
+  "orContinueWith": "वा यसरी जारी राख्नुहोस्",
+  "dontHaveAccount": "खाता छैन?",
+  "alreadyHaveAccount": "पहिले नै खाता छ?",
+  "resetPassword": "पासवर्ड रिसेट गर्नुहोस्",
+  "errorInvalidEmail": "कृपया मान्य इमेल प्रविष्ट गर्नुहोस्",
+  "errorPasswordTooShort": "पासवर्ड कम्तिमा ६ अक्षर लामो हुनुपर्छ"
+}
