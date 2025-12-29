@@ -1,14 +1,14 @@
 {
   "@@locale": "en",
-  "appName": "QuickCart",
-  "welcomeMessage": "Welcome to QuickCart",
+  "appName": "E-SPORT",
+  "welcomeMessage": "Welcome to E-Sport",
 
   "splashSubtitle": "Your One-Stop Shopping Solution",
-  "copyright": "© 2025. QuickCart",
+  "copyright": "© 2025. E-Sport",
   "allRightsReserved": "All Rights Reserved",
 
 
-  "onboarding_title_1": "Welcome to QuickCart",
+  "onboarding_title_1": "Welcome to E-Sport",
   "onboarding_desc_1": "Discover thousands of products at your fingertips. Shop from anywhere, anytime.",
   "onboarding_title_2": "Fast Delivery",
   "onboarding_desc_2": "Get your orders delivered quickly to your doorstep with our express shipping.",

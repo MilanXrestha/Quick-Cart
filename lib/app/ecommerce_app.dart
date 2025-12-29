@@ -31,7 +31,7 @@ class EcommerceApp extends StatelessWidget {
               return BlocBuilder<LocalizationBloc, LocalizationState>(
                 builder: (context, localizationState) {
                   return MaterialApp.router(
-                    title: 'QuickCart',
+                    title: 'E-sport',
                     debugShowCheckedModeBanner: false,
                     theme: ThemeBloc.lightTheme,
                     darkTheme: ThemeBloc.darkTheme,
